@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'kanitmedium';
+    src: url('../fonts/kanit-medium-webfont.woff2') format('woff2'),
+         url('../fonts/kanit-medium-webfont.woff') format('woff'),
+         url('../fonts/kanit-medium-webfont.ttf') format('truetype'),
+         url('../fonts/kanit-medium-webfont.svg#kanitmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'kanitregular';
+    src: url('../fonts/kanit-regular-webfont.woff2') format('woff2'),
+         url('../fonts/kanit-regular-webfont.woff') format('woff'),
+         url('../fonts/kanit-regular-webfont.ttf') format('truetype'),
+         url('../fonts/kanit-regular-webfont.svg#kanitregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'kanitthin';
+    src: url('../fonts/kanit-thin-webfont.woff2') format('woff2'),
+         url('../fonts/kanit-thin-webfont.ttf') format('truetype'),
+         url('../fonts/kanit-thin-webfont.svg#kanitthin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
